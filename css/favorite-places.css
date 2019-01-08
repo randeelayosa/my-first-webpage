@@ -1,0 +1,17 @@
+h1 {
+  font-style: bold;
+  font-size: 60px;
+  text-align: center;
+  color: #42f4f1;
+}
+
+h2 {
+  font-style: bold;
+  font-size: 35px;
+  color: #41a6f4;
+}
+
+ul {
+  font-size: 25px;
+  font-family: sans-serif;
+}
